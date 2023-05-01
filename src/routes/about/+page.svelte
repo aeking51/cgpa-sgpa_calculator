@@ -1,5 +1,5 @@
 <script>
-	import madewith from '$lib/images/made-with.png';
+	import madewith from '$lib/images/madewith.png';
 	import sbte from '$lib/images/sbte.jpeg';
 	import sittr from '$lib/images/SITTR.png';
 </script>
