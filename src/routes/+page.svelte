@@ -46,15 +46,6 @@
 		font-weight: 100;
 		color: black;
 	}
-	.heading h1 {
-		position: absolute;
-		width: 60%;
-		height: 50%;
-		top: 0;
-		
-		justify-content: center;
-		align-items: center;
-	}
 	.select{
 		letter-spacing: 1.5pt;
 		font-family: 'Source Sans Pro', sans-serif;
